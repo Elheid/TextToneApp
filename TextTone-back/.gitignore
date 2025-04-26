@@ -1,0 +1,7 @@
+# Logs
+logs
+*.log
+
+# server
+myenv
+__pycache__
